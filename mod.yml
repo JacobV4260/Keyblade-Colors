@@ -4,19 +4,11 @@ game: kh2
 description: A compilation of mod to be used with the Garden of Assemblage mod and Randomizer for general purposes.
 assets:
 #Detection Saber Model
-- name: obj/W_EX010_Y0.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_Y0.a.fm
 - name: obj/W_EX010_Y0.mdlx
   method: copy
   source:
   - name: obj/W_EX010_Y0.mdlx
 #Frontier of Ultima Model
-- name: obj/W_EX010_Z0.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_Z0.a.fm
 - name: obj/W_EX010_Z0.mdlx
   method: copy
   source:
@@ -318,30 +310,6 @@ assets:
   method: copy
   source:
   - name: obj/W_EX010_K0_TR.mdlx
-- name: obj/W_EX010_L0.mdlx
-  method: copy
-  source:
-  - name: obj/W_EX010_L0.mdlx
-- name: obj/W_EX010_L0.mdlx
-  method: copy
-  source:
-  - name: obj/W_EX010_L0.mdlx
-- name: obj/W_EX010_L0_NM.mdlx
-  method: copy
-  source:
-  - name: obj/W_EX010_L0_NM.mdlx
-- name: obj/W_EX010_L0_NM.mdlx
-  method: copy
-  source:
-  - name: obj/W_EX010_L0_NM.mdlx
-- name: obj/W_EX010_L0_TR.mdlx
-  method: copy
-  source:
-  - name: obj/W_EX010_L0_TR.mdlx
-- name: obj/W_EX010_L0_TR.mdlx
-  method: copy
-  source:
-  - name: obj/W_EX010_L0_TR.mdlx
 - name: obj/W_EX010_M0.mdlx
   method: copy
   source:
@@ -438,30 +406,6 @@ assets:
   method: copy
   source:
   - name: obj/W_EX010_R0_TR.mdlx
-- name: obj/W_EX010_T0.mdlx
-  method: copy
-  source:
-  - name: obj/W_EX010_T0.mdlx
-- name: obj/W_EX010_T0.mdlx
-  method: copy
-  source:
-  - name: obj/W_EX010_T0.mdlx
-- name: obj/W_EX010_T0_NM.mdlx
-  method: copy
-  source:
-  - name: obj/W_EX010_T0_NM.mdlx
-- name: obj/W_EX010_T0_NM.mdlx
-  method: copy
-  source:
-  - name: obj/W_EX010_T0_NM.mdlx
-- name: obj/W_EX010_T0_TR.mdlx
-  method: copy
-  source:
-  - name: obj/W_EX010_T0_TR.mdlx
-- name: obj/W_EX010_T0_TR.mdlx
-  method: copy
-  source:
-  - name: obj/W_EX010_T0_TR.mdlx
 #Sora Clothes
 - name: obj/P_EX100.mdlx
   method: copy
