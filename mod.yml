@@ -402,48 +402,11 @@ assets:
   method: copy
   source:
   - name: obj/W_EX010_R0_TR.mdlx
-- name: obj/W_EX010_R0_TR.mdlx
+- name: obj/W_EX010_NM.mdlx
   method: copy
   source:
-  - name: obj/W_EX010_R0_TR.mdlx
-#Sora Clothes
-- name: obj/P_EX100.mdlx
+  - name: obj/W_EX010_NM.mdlx
+- name: obj/W_EX010_TR.mdlx
   method: copy
   source:
-  - name: obj/P_EX100.mdlx
-- name: obj/P_EX100_AL_CARPET.mdlx
-  method: copy
-  source:
-  - name: obj/P_EX100_AL_CARPET.mdlx
-- name: obj/P_EX100_BTLF.mdlx
-  method: copy
-  source:
-  - name: obj/P_EX100_BTLF.mdlx
-- name: obj/P_EX100_HTLF.mdlx
-  method: copy
-  source:
-  - name: obj/P_EX100_HTLF.mdlx
-- name: obj/P_EX100_HTLF_BTL.mdlx
-  method: copy
-  source:
-  - name: obj/P_EX100_HTLF_BTL.mdlx
-- name: obj/P_EX100_KH1F.mdlx
-  method: copy
-  source:
-  - name: obj/P_EX100_KH1F.mdlx
-- name: obj/P_EX100_LAST.mdlx
-  method: copy
-  source:
-  - name: obj/P_EX100_LAST.mdlx
-- name: obj/P_EX100_MAGF.mdlx
-  method: copy
-  source:
-  - name: obj/P_EX100_MAGF.mdlx
-- name: obj/P_EX100_TRIF.mdlx
-  method: copy
-  source:
-  - name: obj/P_EX100_TRIF.mdlx
-- name: obj/P_EX100_ULTF.mdlx
-  method: copy
-  source:
-  - name: obj/P_EX100_ULTF.mdlx
+  - name: obj/W_EX010_TR.mdlx
